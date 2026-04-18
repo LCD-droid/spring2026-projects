@@ -84,5 +84,6 @@ The two most urgent things:
 2. **Transfer ICR accuracy to SAIR.** Gemma is at 93.5% with ICR and 66% with SAIR, which is a 27.5-point gap. The goal now is to run ICR_partition's refinement loop on the current cheatsheet and measure how much structurally targeted case studies can close that gap, with per-partition regression and oracle-guided generation both in play.
 
 Implementation of ICRefine and SAIR_eval_pipeline is avaliable below:
+
 https://github.com/ChicagoHAI/SAIR_eval_pipeline
 https://github.com/AndrewRqy/ICRefine
