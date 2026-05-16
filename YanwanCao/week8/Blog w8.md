@@ -142,6 +142,7 @@ The key differences are:
 
 ---
 
+
 ## What's Next
 
 Over the coming weeks, I'll be working through the three experimental stages described above and beginning to analyze where the adaptive switch triggers. The most interesting question: does the switching point correlate with task *semantic complexity*? Does HYBRID-BO learn to stay in LLM mode longer on tasks where language structure matters more?
